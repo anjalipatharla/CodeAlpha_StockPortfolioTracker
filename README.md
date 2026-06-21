@@ -41,7 +41,6 @@ Example Output
 
 ==========
 STOCK PORTFOLIO TRACKER
-==========
 
 Enter the stock name: AAPL
 Enter Quantity: 3
@@ -52,7 +51,6 @@ Add another stock? (y/n): n
 
 ==========
 PORTFOLIO SUMMARY
-==========
 
 Total Investment Value: 540
 
