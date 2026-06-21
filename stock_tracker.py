@@ -1,31 +1,3 @@
-"""stocks = {
-    "AAPL": 180,
-    "TSLA": 250,
-    "GOOG": 150
-}
-
-total_investment = 0
-
-while True:
-  stock_name=input("Enter the stock name:").upper()
-  quantity=int(input("Enter quantity:"))
-  total=stocks[stock_name]*quantity
-  total_investment = total_investment + total
-  print("Current Total:",total_investment)
-  choice=input("Add another stock? (y/n):")
-  if choice.lower()== "n":
-    break
-
-print("\n------ STOCK PORTFOLIO ------")
-print("Stock:", stock_name)
-print("Price:", stocks[stock_name])
-print("Quantity:", quantity)
-print("Total Investment:", total)
-print("\n------ PORTFOLIO SUMMARY ------")
-print("Total Investment Value:",total_investment)"""
-
-
-# ..............................................................................................
 
 # Stock Portfolio Tracker
 # CodeAlpha Internship Task 2
